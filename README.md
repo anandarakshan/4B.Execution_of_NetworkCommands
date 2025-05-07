@@ -41,4 +41,4 @@ print(result,unans)
 ![image](https://github.com/user-attachments/assets/1aee0d6c-e02d-41f0-a0e2-96fb2b615e60)
 
 ## Result
-Thus Execution of Network commands Performed.
+Thus Execution of Network commands for Traceroute is performed.
